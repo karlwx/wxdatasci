@@ -5,8 +5,8 @@ Welcome to the PSU Weather Data Science Club's GitHub repository! Here you will 
 We are a group of students (both undergraduate and graduate) in meteorology, atmospheric science, and related disciplines who are interested in applying computer and data science to solve meteorological problems. We aim to provide our members with valuable coding skills that will prepare them for careers in the private sector, academia, or government. We will collaborate on several projects, including frequent coding challenges and our club's long-term project - the PSU e-Wall redesign. 
 
 ## Connect with us
-Join our club GroupMe: https://groupme.com/join_group/62417485/ImOlt7rK
+Join our club Discord to chat about coding and ask any questions you may have: https://discord.gg/BnFfxKaWkt
 
-Our Slack workspace: https://join.slack.com/t/psuweatherdatascience/shared_invite/zt-o34uglzn-vTmOyJq~c_VZkYowzG31Xw
+Attend our weekly coding help sessions on Thursdays from 7:30-9:30 pm in 607 Walker!
 
-Meeting announcements will be sent via the meteo department listservs in addition to GroupMe and Slack.
+Meeting announcements will be sent via the meteo department listservs in addition to Discord.
