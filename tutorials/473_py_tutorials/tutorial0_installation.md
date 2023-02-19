@@ -149,6 +149,8 @@ pipenv shell
   Thermodynamic calculations
 - [Siphon](https://unidata.github.io/siphon/latest/examples/index.html)
   Weather data download
+- [cdsapi](https://github.com/ecmwf/cdsapi)
+  ERA5 data download
 
 
 ## Units
