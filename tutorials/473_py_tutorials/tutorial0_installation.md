@@ -151,7 +151,8 @@ pipenv shell
   Weather data download
 - [cdsapi](https://github.com/ecmwf/cdsapi)
   ERA5 data download
-
+- [SHARPpy](https://sharppy.github.io/SHARPpy/picker.html)
+  Sounding download, analysis, and plotting
 
 ## Units
 
